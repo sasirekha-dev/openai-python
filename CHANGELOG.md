@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.30.3 (2024-05-24)
+
+Full Changelog: [v1.30.2...v1.30.3](https://github.com/openai/openai-python/compare/v1.30.2...v1.30.3)
+
+### Chores
+
+* **ci:** update rye install location ([#1440](https://github.com/openai/openai-python/issues/1440)) ([8a0e5bf](https://github.com/openai/openai-python/commit/8a0e5bf4c03d9c714799fad43be68ac9c2b1f37a))
+
 ## 1.30.2 (2024-05-23)
 
 Full Changelog: [v1.30.1...v1.30.2](https://github.com/openai/openai-python/compare/v1.30.1...v1.30.2)
